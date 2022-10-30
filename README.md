@@ -9,3 +9,7 @@
 >Для меня это творчество, и нет видимого потолка
 
 ![Фотография](%D0%A4%D0%BE%D1%82%D0%BE.jpg)
+
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
